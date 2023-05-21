@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Archive">1200c2a607312000c6a9a04ff1021e71</category>
+        <order>100</order>
+        <property display_value="x_cdltd_prueba.prueba" name="x_cdltd_prueba.prueba">c153643b10b665507f4410f3cd24d5a1</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-20 23:12:04</sys_created_on>
+        <sys_id>dde36c3b10b665507f4410f3cd24d52e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_prueba.prueba.Archive</sys_name>
+        <sys_package display_value="Prueba" source="x_cdltd_prueba">c27d915f10e265107f4410f3cd24d553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prueba">c27d915f10e265107f4410f3cd24d553</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_dde36c3b10b665507f4410f3cd24d52e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-20 23:12:04</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Prueba">c27d915f10e265107f4410f3cd24d553</application>
+        <file_path/>
+        <instance_id>fda3def1c36a291465d9d0f4e401311d</instance_id>
+        <instance_name>nowlearning-nlinst00740014-test-001</instance_name>
+        <name>sys_properties_category_m2m_dde36c3b10b665507f4410f3cd24d52e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="Archive">1200c2a607312000c6a9a04ff1021e71</category><order>100</order><property display_value="x_cdltd_prueba.prueba" name="x_cdltd_prueba.prueba">c153643b10b665507f4410f3cd24d5a1</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-20 23:12:04</sys_created_on><sys_id>dde36c3b10b665507f4410f3cd24d52e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_prueba.prueba.Archive</sys_name><sys_package display_value="Prueba" source="x_cdltd_prueba">c27d915f10e265107f4410f3cd24d553</sys_package><sys_policy/><sys_scope display_value="Prueba">c27d915f10e265107f4410f3cd24d553</sys_scope><sys_update_name>sys_properties_category_m2m_dde36c3b10b665507f4410f3cd24d52e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-20 23:12:04</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>-1250635387</payload_hash>
+        <record_name>x_cdltd_prueba.prueba.Archive</record_name>
+        <reverted_from/>
+        <source>1a7d95df10e265107f4410f3cd24d555</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-20 23:12:04</sys_created_on>
+        <sys_id>59e36c3b10b665507f4410f3cd24d531</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1883b6f39100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-20 23:12:04</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>91e36c3b62b66550282de4e010804231</update_guid>
+        <update_guid_history>91e36c3b62b66550282de4e010804231:-1250635387</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-20 23:14:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>6933993c6138448a8db07afdde1b3b69</sys_id>
+        <sys_metadata>dde36c3b10b665507f4410f3cd24d52e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_prueba.prueba.Archive</sys_name>
+        <sys_package display_value="Prueba" source="x_cdltd_prueba">c27d915f10e265107f4410f3cd24d553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Prueba">c27d915f10e265107f4410f3cd24d553</sys_scope>
+        <sys_scope_delete display_value="">177ed0e143bd45bb83eaafcef58c1131</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_dde36c3b10b665507f4410f3cd24d52e</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_dde36c3b10b665507f4410f3cd24d52e">59e36c3b10b665507f4410f3cd24d531</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-20 23:14:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
